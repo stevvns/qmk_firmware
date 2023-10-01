@@ -34,8 +34,8 @@ quantum/version.h
 /keyboards/**/Makefile
 
 # kbfirmware....
-/keyboards/**/kb.h
-/keyboards/**/kb.c
+# /keyboards/**/kb.h
+# /keyboards/**/kb.c
 
 # Eclipse/PyCharm/Other IDE Settings
 *.iml
